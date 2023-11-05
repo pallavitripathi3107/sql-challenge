@@ -6,11 +6,11 @@ For this project, you’ll design the tables to hold the data from the CSV files
 
 ## Location of source
 * **Scripts** :
-  * *Table creation script*: EmployeeSQL/Sql_Script/Sql_table_script.sql
-  * *Query script*: EmployeeSQL/Sql_Script/query_script.sql
+  * *Table creation script*: [EmployeeSQL/Sql_Script/Sql_table_script.sql](https://github.com/pallavitripathi3107/sql-challenge/blob/main/EmployeeSQL/Sql_Script/Sql_table_script.sql)
+  * *Query script*: [EmployeeSQL/Sql_Script/query_script.sql](https://github.com/pallavitripathi3107/sql-challenge/blob/main/EmployeeSQL/Sql_Script/query_script.sql)
 * **ERD outputs** :
-  * *ERD Diagram Image*: EmployeeSQL/ERD/Employees_ERD.png
-  * *ERD code*: EmployeeSQL/ERD/QuickDBD_script
+  * *ERD Diagram Image*: [EmployeeSQL/ERD/Employees_ERD.png](https://github.com/pallavitripathi3107/sql-challenge/blob/main/EmployeeSQL/ERD/Employees_ERD.png)
+  * *ERD code*: [EmployeeSQL/ERD/QuickDBD_script](https://github.com/pallavitripathi3107/sql-challenge/blob/main/EmployeeSQL/ERD/QuickDBD_script)
  
 *Note:* CSV files not included because of the size of the files.
 
